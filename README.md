@@ -4,7 +4,7 @@
 ### file description:
 Dataset:
 MIT_ImageRatings.csv: low-level visual feature data on 1030 images from Berman et al.(2014) study
-[link to full image dataset]('https://github.com/yutaili/Data/tree/main/dataset')
+[link to full image dataset](https://github.com/yutaili/Data/tree/main/dataset)
 Script:
 resmemAnalysis.R
 
