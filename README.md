@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/481085513.svg)](https://zenodo.org/badge/latestdoi/481085513)
+
+
 # Replication Materials
 
 Author: Yutai Li
