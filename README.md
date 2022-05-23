@@ -36,11 +36,11 @@ To analyze the similarities of low-level features in every images, I transfer ev
 
 ![jpeg](plots/EDhist_unscaled.jpeg), ![jpeg](plots/EDhist_scaled.jpeg)
 
-### High-Level Semantic Information (unfinished)
+### High-Level Semantic Information 
 
-![jpeg](plots/label_frequency.png) 
-![jpeg](plots/nu_cosine.png) 
-![jpeg](plots/hml_cosine.png) 
+<img src="https://github.com/macs30200-s22/replication-materials-yutaili/blob/main/plots/PCA_nu.jpeg" width="400" height="400">
+<img src="https://github.com/macs30200-s22/replication-materials-yutaili/blob/main/plots/nu_cosine.png" width="600" height="400">
+<img src="https://github.com/macs30200-s22/replication-materials-yutaili/blob/main/plots/hml_cosine.png" width="600" height="400">
 
 
 ```python
