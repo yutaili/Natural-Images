@@ -56,8 +56,7 @@ However, there are many outliers in the distance distribution of natural images.
 <img src="https://github.com/macs30200-s22/replication-materials-yutaili/blob/main/plots/nu_cosine.png" width="600" height="400">
 <img src="https://github.com/macs30200-s22/replication-materials-yutaili/blob/main/plots/hml_cosine.png" width="600" height="400">
 
-## Citation
-Y.Li, Are Natural Scenes More Similar than Urban Scenes? A Study of Perceived Similarities in Visual and Semantic Features of Natural and Urban Images (2022), GitHub Repository, https://github.com/macs30200-s22/replication-materials-yutaili/, [![DOI](https://zenodo.org/badge/481085513.svg)](https://zenodo.org/badge/latestdoi/481085513)
+
 
 
 
